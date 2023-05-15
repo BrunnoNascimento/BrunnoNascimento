@@ -7,7 +7,7 @@ I'm Brunno Nascimento 👋
   <a href="https://www.linkedin.com/in/brunno-nascimento-866101207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 <div align="center">
-  <a href="https://github.com/LucasBotas">
+  <a href="https://github.com/BrunnoNascimento">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunnonascimento&show_icons=true&theme=radical"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnonascimento&layout=compact&theme=radical"/>
 
